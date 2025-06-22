@@ -1,16 +1,22 @@
-## Hi there 👋
+👾 RootStrike | Cybersecurity Professional
 
-<!--
-**ROOTSTRIKE/ROOTSTRIKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my hub.
 
-Here are some ideas to get you started:
+💥 **About Me**
+- Cybersecurity specialist focused on offensive security, VAPT, and data recovery.
+- Builder of custom tools like **Port Hunter** for advanced scanning.
+- Passionate about helping clients secure their systems and recover critical data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡 **Services**
+- Penetration Testing / Vulnerability Assessment
+- Data Recovery (Windows/Linux)
+- Custom Cyber Tools Development
+
+⚙ **Links**
+- 🌐 [Fiverr: Hire Me](https://www.fiverr.com/s/VYwDy8B)
+- 📦 [Gumroad: Port Hunter](https://rootstrike.gumroad.com/l/kkekbq)
+- 🐦 [Twitter: @Root_Strike](https://twitter.com/Root_Strike)
+
+---
+
+🚀 **Let’s collaborate. Drop me a message — security never sleeps.**
